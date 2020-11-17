@@ -2,7 +2,7 @@
 
 a=input('me diga o nome de um pokemon do tipo pedra: ')
 b=input('agora me diga o nome de um pokemon do tipo água: ')
-c=input('e pór último um pokemon do tipo fogo: ')
+c=input('e por último um pokemon do tipo fogo: ')
 
 def pokemon(x):
     
